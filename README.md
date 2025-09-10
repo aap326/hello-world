@@ -1,2 +1,3 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
+Aadi Patel
+Xilinx Zynq ARM Cortex-9
+Mushrooms and Olives
